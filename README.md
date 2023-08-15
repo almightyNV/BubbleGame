@@ -6,6 +6,8 @@ This project is a simple bubble game that tests your ability to view things quic
 - CSS3
 - Javascript
 
+# [Checkout the project here](https://almightynv.github.io/BubbleGame/)
+
 I have started learning frontend development and I think you learn more by doing the practical work.
 This project is purely created by only using HTML, CSS, and Javascript.
 I have added the screenshots of the game. You can check the game by cloning this repository.
