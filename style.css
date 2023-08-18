@@ -141,3 +141,49 @@ body {
 #score-display span {
     color: rgb(36, 218, 36);
 }
+
+
+@media (max-width: 600px) {
+
+    .pan-nav {
+        height: 150px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: column;
+        gap: 5px;
+        background-color: #FD8D14;
+    }
+
+    .pan-nav img {
+        height: 40px;
+        width: 40px;
+    }
+
+    .pan-nav h3 {
+        font-size: 12px;
+    }
+
+    .gamebox {
+        height: 90%;
+    }
+
+    #gameover {
+        font-size: 20px;
+    }
+
+    #gameover img {
+        height: 60px;
+        width: 60px;
+    }
+
+    #score-display {
+        font-size: 16px;
+    }
+
+    #score-display span {
+        color: rgb(19, 156, 19);
+    }
+
+}
