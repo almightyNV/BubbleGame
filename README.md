@@ -12,9 +12,15 @@ I have started learning frontend development and I think you learn more by doing
 This project is purely created by only using HTML, CSS, and Javascript.
 I have added the screenshots of the game. You can check the game by cloning this repository.
 
+## Desktop view
+
 ![ScreenShot](Screenshots/BubbleGame.PNG)
 
 ![ScreenShot](Screenshots/ScoreCard.PNG)
+
+## Mobile view
+
+![Screenshot](Screenshots/MobileView.jpeg)
 
 ## Made By
 [NISHANT VILKAR](https://github.com/almightynv)
